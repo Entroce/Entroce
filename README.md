@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Entroce
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning cryptography
+- 🌱 I’m currently learning cryptographi
 - 💞️ I’m looking to collaborate on partnership
 - 📫 How to reach me eaglediamondar@gmail.com
 
